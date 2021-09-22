@@ -14,7 +14,7 @@ El Salvador's President Nayib Bukele has chalked up the developments in El Zonte
 
 Nevertheless, some citizens are protesting against Bukele's decision. [4] Maybe they don't want to be the guinea pigs of this “Bitcoin experiment.” We don't know if Bitcoin can really solve any of El Salvador's severe economic issues. The high volatility is an extreme risk factor. But it might be precisely this volatility that Bukele is counting on in hopes of an upward trend that would consequently boost his population’s prosperity.
 
-## Being Unbanked
+## Being unbanked
 
 In 2017 about 1.7 billion adults didn’t own a bank account. China has the world's largest unbanked population. Together with India, Pakistan, Indonesia, Nigeria, Mexico, and Bangladesh, they make about half the world's unbanked population. Women are overrepresented among the unbanked, and unbanked adults mainly live in the poorest households. [5]
 
@@ -24,7 +24,7 @@ It becomes clear that being unbanked or underbanked includes historical dimensio
 
 The reasons for not having a bank account are deeply interwoven. No physical access, language barriers, unstable income, and lack of identification documents often go together. It all accumulates in the main reason for being unbanked: not having enough money. [10] In sum, it’s the lack of financial opportunities that leaves people unbanked.
 
-## Is Crypto the Solution?
+## Is crypto the solution?
 
 Crypto doesn't care who you are and where you live. Anyone can start with crypto. The only thing you need is a mobile phone and an internet connection that doesn't even have to be especially good. Most people today have both. Even though centralized exchanges such as Binance or Coinbase require you to provide identification documents, crypto wallets require no such thing. Crypto is a solution for anyone who needs to receive or send money anonymously.
 
@@ -36,7 +36,7 @@ However, the freedom and autonomy provided by crypto also bring difficulties. If
 
 High gas fees are the next remaining problem. When you don't want to put a third party between you and your money, you need to interact directly with the blockchain. And that's expensive. Bitcoin and Ethereum enthusiasts often don't believe in any other alternative blockchains and coins. Their usage despite high gas fees shows that they do not mainly use crypto to solve their financial problems. They use it out of ideological reasons and utopian visions. Projects like Stellar [13] or Celo [14] have put their focus directly on the unbanked. They want to enable remittances for anyone anywhere and make using DeFi as cheap and straightforward as possible.
 
-## DeFi's First World Problem
+## DeFi's first world problem
 
 But a lot still needs to happen for DeFi to actually be used by those who could benefit so much from it. According to data from SimilarWeb, most users of dapps come from western industrialized countries. In eight out of ten dapps viewed, by far the most users are from the US. For these biggest DeFi apps, only 10% of the traffic is from developing nations. The data clearly show that DeFi is currently used primarily in Western countries.\*\* [15]
 
@@ -44,7 +44,7 @@ But a lot still needs to happen for DeFi to actually be used by those who could 
 
 How do we solve this problem? How do we get DeFi to people who aren't in the tech scene, don't know much about finance, and don't even have an online banking account?
 
-## Financial Literacy
+## Financial literacy
 
 It may be surprising, but 11.2% of households in New York are unbanked. [16] This is likely related to the city's reasonably high poverty rate, with 19.1% living below the poverty line and 41.3% near poverty. [17] In the Bronx, the number of unbanked is almost double that of the rest of New York, namely 19.3%. [16] It is not without reason that English teacher Carlos Acevedo started his "Crypto Community Project" in the South Bronx. [18] Acevedo got into the DeFi movement by a happy accident. Since then, he has believed that crypto can create equal opportunities for all. Once you're in this "small but so powerful community," he says, then paths for success open up. The "Crypto Community Project's" first Bootcamp launched in 2019. Acevedo wants to arouse the adolescent’s curiosity and give them the necessary technical and financial know-how. He says, once people have the chance to use the technology, they use it, especially young people. Acevedo has a clear suggestion of how the crypto movement can be a chance for increasing financial inclusion:
 
@@ -54,7 +54,7 @@ He points to crypto millionaires and young people who have become rich because t
 
 Acevedo also points to the learning effect that having your own crypto seed capital has. You can gain much more from using the DeFi apps directly, making transactions, and trading yourself, rather than just being explained how to use a crypto wallet. "Being a teacher, you realize that the only thing that brings success is the ability to fail while being supported." Hence, financial support and learning opportunities are essential. And some projects are actually combining those two elements.
 
-## Learn and Earn
+## Learn and earn
 
 With Coinbase, you can earn crypto by learning about crypto. [20] You can complete courses about various cryptocurrencies and, as a reward, get them delivered directly into your Coinbase exchange. The problem with Coinbase is that you need identification documents to register.
 
