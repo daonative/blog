@@ -3,6 +3,7 @@ title: What is prologe.press?
 date: '2022-08-21'
 draft: false
 authors: ['ben']
+summary: What is prologe.press? Who is it for? What does it solve?
 ---
 
 prologe.press is a platform that inverts the classical flow of content creation. Readers crowdsource call for articles and can have a stake in the articles' success.
