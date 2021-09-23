@@ -13,13 +13,13 @@ const LayoutWrapper = ({ children }) => {
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between py-10">
           <div>
-            <Link href="https://prologe.press" aria-label="">
+            <a href="https://prologe.press">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
                   <Logo />
                 </div>
               </div>
-            </Link>
+            </a>
           </div>
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
