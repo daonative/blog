@@ -40,7 +40,7 @@ High gas fees are the next remaining problem. When you don't want to put a third
 
 But a lot still needs to happen for DeFi to actually be used by those who could benefit so much from it. According to data from SimilarWeb, most users of dapps come from western industrialized countries. In eight out of ten dapps viewed, by far the most users are from the US. For these biggest DeFi apps, only 10% of the traffic is from developing nations. The data clearly show that DeFi is currently used primarily in Western countries.\*\* [15]
 
-[https://lh6.googleusercontent.com/-uqQHspZfRNze6oegHYWUhIphzG0IQjSfAb8oQLK5yAyG4Gc7aYjTTLbC2nFAoS9rsIne8PLrvx3hYL*9HjO1b2tZAPL1S3vlawExGYS6ZpNf*-Pe33HhbgGtlUQFk4JvgldFIQw=s0](https://lh6.googleusercontent.com/-uqQHspZfRNze6oegHYWUhIphzG0IQjSfAb8oQLK5yAyG4Gc7aYjTTLbC2nFAoS9rsIne8PLrvx3hYL_9HjO1b2tZAPL1S3vlawExGYS6ZpNf_-Pe33HhbgGtlUQFk4JvgldFIQw=s0)
+![similar web traffic for defi](https://lh6.googleusercontent.com/-uqQHspZfRNze6oegHYWUhIphzG0IQjSfAb8oQLK5yAyG4Gc7aYjTTLbC2nFAoS9rsIne8PLrvx3hYL_9HjO1b2tZAPL1S3vlawExGYS6ZpNf_-Pe33HhbgGtlUQFk4JvgldFIQw=s0)
 
 How do we solve this problem? How do we get DeFi to people who aren't in the tech scene, don't know much about finance, and don't even have an online banking account?
 
