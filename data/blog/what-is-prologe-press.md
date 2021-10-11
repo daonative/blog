@@ -1,6 +1,6 @@
 ---
 title: What is prologe.press?
-date: '2022-08-21'
+date: '2021-08-21'
 draft: false
 authors: ['ben']
 summary: What is prologe.press? Who is it for? What does it solve?
