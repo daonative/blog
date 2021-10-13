@@ -8,12 +8,12 @@ summary: Crypto has long been pretending to bank the unbanked. But what does tha
 
 *2021-10-11: added TL;DR*
 
-## El Salvador's legal tender: Bitcoin
 
 There is this phrase that crypto could "bank the unbanked". But what did and can crypto really do? 
 
 > **TL;DR** The text shows that we need to look at why people are unbanked to include them in the world economy. The reasons are not mainly missing technological infrastructures but the lack of financial opportunities caused by a perpetual circle of inequalities. But crypto is also not only a technical solution. It is also a movement and a community. Crypto can give opportunities because it's more accessible. But its primary users still live in wealthy countries, foremost in the US. The most important to make crypto more inclusive is to spread knowledge of how to use it safely. The "[Crypto community project](https://www.coindesk.com/markets/2020/04/30/banking-the-unbanked-how-the-crypto-community-can-make-a-big-impact/)" is one example where young people can learn this. Furthermore, we need more learn-and-earn projects like [1729](https://1729.com/all) to earn crypto while creating knowledge and skills.
 
+## El Salvador's legal tender: Bitcoin
 
 Bitcoin Beach [1] is the name under which the village of 3,000 inhabitants in El Salvador became famous when it introduced Bitcoin as a means of payment. The small town, actually called El Zonte, is a surfer's paradise with hostels on beaches darkened by the ash of the nearby volcano. The village is popular with surf tourists, and yet it is characterized by poverty. There has never been a bank there. But since 2019, you suddenly see the famous orange B all over town because merchants accept payments in Bitcoin. Since then, the financial life in El Zonte has changed. Residents used to make a three-hour bus trip to the nearest bank to make a transfer, and now it's just a few clicks away. [2] Many can save or even invest money for the first time. [3]
 
